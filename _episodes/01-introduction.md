@@ -9,7 +9,8 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+![a mediated relationship](./fig/mediator.png)
+
 
 {% include links.md %}
 

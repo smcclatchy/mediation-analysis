@@ -4,7 +4,6 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 Mediation analysis
-![a mediated relationship](./fig/mediator.png)
 
 <!-- this is an html comment -->
 
